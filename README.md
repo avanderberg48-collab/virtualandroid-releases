@@ -1,94 +1,65 @@
-# 📱 Adrian's Android App Releases
+# 📱 Adrian's Accessible Android Apps
 
-Welcome to the official download hub for Android apps built for the **blind and low-vision community**.
-
-All apps feature:
-- ✅ Full **TalkBack** & screen reader support
-- ✅ **High-contrast dark theme** for low-vision users
-- ✅ **Large touch targets** and clear labels on every button
-- ✅ Compatible with **Android 12 and above**
+All apps below are built for **blind and visually impaired users** with full TalkBack support, high-contrast UI, and accessibility-first design.
 
 ---
 
-## 🌀 Atmosphere — APK Patcher & Unlocker
+## 🔊 Smart Screen Reader v2.1 ✅ LATEST
+**A full Android screen reader — replacement/companion for TalkBack**
 
-> Unlock any Android app to its full version — remove licence checks, unlock premium features, remove ads, bypass in-app purchases, and remove trial limits. Works on both rooted and non-rooted devices.
+📥 [Download SmartScreenReader_v2.1.apk](https://github.com/avanderberg48-collab/virtualandroid-releases/releases/download/smart-screen-reader-v2.1/SmartScreenReader_v2.1.apk)
 
-| Feature | Details |
-|---|---|
-| 🔓 Remove Licence Checks | Bypass Play Store & offline licence verification |
-| 💳 Unlock In-App Purchases | All premium purchases appear already bought |
-| 🚫 Remove Ads | Removes Google Ads, Facebook Ads, Unity Ads & more |
-| ⭐ Unlock Premium Features | Unlocks all paid/premium-only features automatically |
-| ⏳ Remove Trial Limits | Remove time limits, watermarks, feature restrictions |
-| 🔑 Root Mode | Deeper system-level patches for rooted devices |
-| 💾 Auto-Save | Patched APK saved to Downloads/Atmosphere/ folder |
-| 📲 Install Now | One-tap install of patched APK from the results screen |
-| 👁 TalkBack Ready | Every action announced aloud, full screen reader support |
-| ⚫ Pure Black UI | Maximum contrast for low vision users |
+**Features:**
+- 🔊 Full speech feedback for all screen elements (buttons, text, menus, notifications)
+- 👆 Customisable gesture navigation (swipe, double tap, triple tap, edge gestures)
+- 🎤 Voice commands (open apps, go back, read screen, control media)
+- 📷 OCR camera text scanner (point at any text — hear it read aloud)
+- 🤖 AI scene description (identify objects, labels, and scenes)
+- 🔔 Notification announcements (filter by app/priority)
+- ⠃ Braille display support (Bluetooth)
+- 🏷️ Custom labels for unlabelled buttons in any app
+- 👤 4 Accessibility profiles (Beginner, Standard, Advanced, Expert)
+- 🌑 Screen curtain mode
+- 📚 Built-in tutorial and gesture learning mode
+- ⚡ Fast, crash-free, battery-efficient
 
-### ⬇️ Download Atmosphere
-**[👉 Tap here to download Atmosphere.apk](https://raw.githubusercontent.com/avanderberg48-collab/virtualandroid-releases/main/Atmosphere.apk)**
-
----
-
-## 🔲 VirtualAndroid — Accessible App Sandbox
-
-> Run apps inside a secure virtual space — without affecting your main phone.
-
-| Feature | Details |
-|---|---|
-| 🎤 Voice Launch | Say an app name to open it hands-free |
-| 📦 Install any APK | Import APKs into the isolated virtual space |
-| 🔐 Root control | Toggle root access per app |
-| 👁 TalkBack ready | Every action is announced aloud |
-
-### ⬇️ Download VirtualAndroid
-**[👉 Tap here to download VirtualAndroid.apk](https://raw.githubusercontent.com/avanderberg48-collab/virtualandroid-releases/main/VirtualAndroid_Accessible.apk)**
+**Install:** Download APK → Allow unknown sources → Install → Accessibility Settings → Enable Smart Screen Reader
 
 ---
 
-## 💬 BlindChat — Accessible Messaging
+## 💬 BlindChat v6
+**Native messaging app with full TalkBack support, AI games, WebRTC voice calls**
 
-> A native Android messaging app with full TalkBack support, AI games, voice notes, and more.
-
-**[👉 Tap here to download BlindChat.apk](https://raw.githubusercontent.com/avanderberg48-collab/virtualandroid-releases/main/BlindChat.apk)**
-
----
-
-## 📞 VoicemailPro — Smart Voicemail
-
-> Custom greetings (6–25 seconds), call screening, and fax-to-PDF conversion.
-
-**[👉 Tap here to download VoicemailPro.apk](https://raw.githubusercontent.com/avanderberg48-collab/virtualandroid-releases/main/VoicemailPro.apk)**
+📥 [Download BlindChat_v6_update.apk](https://github.com/avanderberg48-collab/virtualandroid-releases/releases/download/blindchat-v6/BlindChat_v6_update.apk)
 
 ---
 
-## 🤖 PhoneAgent — AI Phone Assistant
+## 📞 PhoneAgent v3
+**AI-powered phone assistant using Accessibility Services**
 
-> Controls your phone by voice or text using AI. Works as your Default Assistant for hands-free system control.
-
-**[👉 Tap here to download PhoneAgent.apk](https://raw.githubusercontent.com/avanderberg48-collab/virtualandroid-releases/main/PhoneAgent.apk)**
-
----
-
-## 🔑 RootManager — Superuser Interface
-
-> A clean Superuser permission manager for devices running Magisk, KernelSU, or APatch.
-
-**[👉 Tap here to download RootManager.apk](https://raw.githubusercontent.com/avanderberg48-collab/virtualandroid-releases/main/RootManager.apk)**
+📥 [Download PhoneAgent_v3.apk](https://github.com/avanderberg48-collab/virtualandroid-releases/releases/download/phoneagent-v3/PhoneAgent_v3.apk)
 
 ---
 
-## 📲 How to Install
+## 📱 VirtualAndroid (Accessible Edition)
+**App virtualization container with voice commands and TalkBack support**
 
-1. Tap any download link above on your Android phone
-2. Open the downloaded `.apk` file
-3. If prompted, tap **Allow from this source**
-4. Tap **Install** and you're done!
-
-> **Tip for TalkBack users:** After downloading, swipe to the notification and double-tap to open the installer.
+📥 [Download VirtualAndroid.apk](https://github.com/avanderberg48-collab/virtualandroid-releases/releases/download/virtual-android-accessible/VirtualAndroid.apk)
 
 ---
 
-*Built with ❤️ for the blind and low-vision community by Adrian.*
+## 🌐 FreeNet SA
+**Data-free internet access for South African networks (Vodacom, MTN, Cell C, Telkom)**
+
+📥 [Download FreeNetSA.apk](https://github.com/avanderberg48-collab/virtualandroid-releases/releases/download/freenet-sa/FreeNetSA.apk)
+
+---
+
+## 📬 VoicemailPro
+**Custom greetings, call screening, fax-to-PDF**
+
+📥 [Download VoicemailPro.apk](https://github.com/avanderberg48-collab/virtualandroid-releases/releases/download/voicemailpro/VoicemailPro.apk)
+
+---
+
+*All apps built by Adrian for the blind and low-vision community. Android 12–16 compatible.*
