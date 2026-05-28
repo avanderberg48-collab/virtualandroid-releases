@@ -10,6 +10,28 @@ All apps feature:
 
 ---
 
+## 🌀 Atmosphere — APK Patcher & Unlocker
+
+> Unlock any Android app to its full version — remove licence checks, unlock premium features, remove ads, bypass in-app purchases, and remove trial limits. Works on both rooted and non-rooted devices.
+
+| Feature | Details |
+|---|---|
+| 🔓 Remove Licence Checks | Bypass Play Store & offline licence verification |
+| 💳 Unlock In-App Purchases | All premium purchases appear already bought |
+| 🚫 Remove Ads | Removes Google Ads, Facebook Ads, Unity Ads & more |
+| ⭐ Unlock Premium Features | Unlocks all paid/premium-only features automatically |
+| ⏳ Remove Trial Limits | Remove time limits, watermarks, feature restrictions |
+| 🔑 Root Mode | Deeper system-level patches for rooted devices |
+| 💾 Auto-Save | Patched APK saved to Downloads/Atmosphere/ folder |
+| 📲 Install Now | One-tap install of patched APK from the results screen |
+| 👁 TalkBack Ready | Every action announced aloud, full screen reader support |
+| ⚫ Pure Black UI | Maximum contrast for low vision users |
+
+### ⬇️ Download Atmosphere
+**[👉 Tap here to download Atmosphere.apk](https://raw.githubusercontent.com/avanderberg48-collab/virtualandroid-releases/main/Atmosphere.apk)**
+
+---
+
 ## 🔲 VirtualAndroid — Accessible App Sandbox
 
 > Run apps inside a secure virtual space — without affecting your main phone.
@@ -20,10 +42,9 @@ All apps feature:
 | 📦 Install any APK | Import APKs into the isolated virtual space |
 | 🔐 Root control | Toggle root access per app |
 | 👁 TalkBack ready | Every action is announced aloud |
-| ⚫ Pure black UI | Maximum contrast for low vision |
 
 ### ⬇️ Download VirtualAndroid
-**[👉 Tap here to download VirtualAndroid APK](https://raw.githubusercontent.com/avanderberg48-collab/virtualandroid-releases/main/VirtualAndroid_Accessible.apk)**
+**[👉 Tap here to download VirtualAndroid.apk](https://raw.githubusercontent.com/avanderberg48-collab/virtualandroid-releases/main/VirtualAndroid_Accessible.apk)**
 
 ---
 
@@ -31,7 +52,7 @@ All apps feature:
 
 > A native Android messaging app with full TalkBack support, AI games, voice notes, and more.
 
-**[👉 Tap here to download BlindChat APK](https://raw.githubusercontent.com/avanderberg48-collab/virtualandroid-releases/main/BlindChat.apk)**
+**[👉 Tap here to download BlindChat.apk](https://raw.githubusercontent.com/avanderberg48-collab/virtualandroid-releases/main/BlindChat.apk)**
 
 ---
 
@@ -39,7 +60,7 @@ All apps feature:
 
 > Custom greetings (6–25 seconds), call screening, and fax-to-PDF conversion.
 
-**[👉 Tap here to download VoicemailPro APK](https://raw.githubusercontent.com/avanderberg48-collab/virtualandroid-releases/main/VoicemailPro.apk)**
+**[👉 Tap here to download VoicemailPro.apk](https://raw.githubusercontent.com/avanderberg48-collab/virtualandroid-releases/main/VoicemailPro.apk)**
 
 ---
 
@@ -47,7 +68,7 @@ All apps feature:
 
 > Controls your phone by voice or text using AI. Works as your Default Assistant for hands-free system control.
 
-**[👉 Tap here to download PhoneAgent APK](https://raw.githubusercontent.com/avanderberg48-collab/virtualandroid-releases/main/PhoneAgent.apk)**
+**[👉 Tap here to download PhoneAgent.apk](https://raw.githubusercontent.com/avanderberg48-collab/virtualandroid-releases/main/PhoneAgent.apk)**
 
 ---
 
@@ -55,7 +76,7 @@ All apps feature:
 
 > A clean Superuser permission manager for devices running Magisk, KernelSU, or APatch.
 
-**[👉 Tap here to download RootManager APK](https://raw.githubusercontent.com/avanderberg48-collab/virtualandroid-releases/main/RootManager.apk)**
+**[👉 Tap here to download RootManager.apk](https://raw.githubusercontent.com/avanderberg48-collab/virtualandroid-releases/main/RootManager.apk)**
 
 ---
 
